@@ -1,7 +1,8 @@
-## NIST FRVT Top #1 Face Recognition Algorithm Developer<br/>
-We are providing on-premise **Face Recognition**, **Liveness Detection** and **ID Card Recognition** server and mobile SDKs
+## NIST FRVT Top #1 Face Recognition Algorithm Developer
 
-For more details and documentation, visit [https://docs.recognito.vision/](https://docs.recognito.vision/).
+Providing on-premise SDK solutions for **Face Recognition**, **Liveness Detection**, and **ID Card Recognition**, optimized for server and mobile environments.
+
+For our products and documentation, visit [https://docs.recognito.vision/](https://docs.recognito.vision/).
 
 <p align="center">
     <img alt="" src="https://recognito.vision/wp-content/uploads/2024/03/NIST.png" width=100%/>
@@ -9,7 +10,7 @@ For more details and documentation, visit [https://docs.recognito.vision/](https
 
 <p align="center" style="font-size: 24px; font-weight: bold;">
     <a href="https://pages.nist.gov/frvt/html/frvt11.html" target="_blank">
-        NIST FRVT Top #1 Face Recognition Algorithm Developer
+        Latest NIST FRVT Report
     </a>  
 </p>
 
