@@ -2,7 +2,6 @@
     <img src="https://github.com/Recognito-Vision/Face-SDK-Linux-Demos/assets/153883841/b82f5c35-09d0-4064-a252-4bcd14e22407"/>
 </a>
 
-# **Recognito**
 ## NIST FRVT Top #1 Face Recognition Algorithm Developer<br/>
 
 ### <img src="https://github.com/Recognito-Vision/NIST-FRVT-Top-1-Face-Recognition/assets/153883841/cdce594f-f3e3-4015-8b8e-72aa3b6c5ea9" alt="home" width="25">   Visit https://recognito.vision
