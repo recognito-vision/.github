@@ -24,7 +24,7 @@ For our products and documentation, visit [https://docs.recognito.vision/](https
     &nbsp;&nbsp;&nbsp;&nbsp;<a href="https://www.youtube.com/@Recognito-Ltd" style="display: flex; align-items: center;"><img src="https://recognito.vision/wp-content/uploads/2024/04/youtube_64_cl.png" style="width: 32px; margin-right: 5px;"/></a>
 </div>
 
-### <img src="https://github.com/Recognito-Vision/Face-SDK-Linux-Demos/assets/153883841/78c5efee-15f3-4406-ab4d-13fd1182d20c" alt="contact" width="25">   Contact Us
+### <img src="https://github.com/Recognito-Vision/Linux-FaceRecognition-FaceLivenessDetection/assets/153883841/78c5efee-15f3-4406-ab4d-13fd1182d20c" alt="contact" width="25">   Contact Us
 Contact us for our on-premise Face Recognition, Liveness Detection SDKs deployment
 
 <div style="display: flex; align-items: center;">
