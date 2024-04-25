@@ -1,6 +1,6 @@
 ## NIST FRVT Top #1 Face Recognition Algorithm Developer
 
-Providing Biometric SDK solutions for **Face Recognition**, **Fraud Detection** optimized for server and mobile environments.
+Providing Biometric solutions for **Face Recognition**, **Fraud Detection** optimized for server and mobile environments.
 <!--
 Providing on-premise SDK solutions for **Face Recognition**, **Liveness Detection**, and **ID Document Recognition**, **Liveness Detection** optimized for server and mobile environments.
 -->
