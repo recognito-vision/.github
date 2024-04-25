@@ -2,7 +2,9 @@
 
 Providing on-premise SDK solutions for **Face Recognition**, **Liveness Detection**, and **ID Document Recognition**, **Liveness Detection** optimized for server and mobile environments.
 
-For our products and documentation, visit [https://docs.recognito.vision/](https://docs.recognito.vision/).
+- Our [**Product List**](https://github.com/Recognito-Vision/Product-List/) for ID verification.
+
+- For more documentation, visit [https://docs.recognito.vision/](https://docs.recognito.vision/).
 
 <p align="center">
     <img alt="" src="https://recognito.vision/wp-content/uploads/2024/03/NIST.png" width=100%/>
