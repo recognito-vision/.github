@@ -7,8 +7,6 @@ Providing on-premise SDK solutions for **Face Recognition**, **Liveness Detectio
 
 - Our [**Product List**](https://github.com/recognito-vision/Product-List/) for ID verification.
 
-- For more documentation, visit [https://docs.recognito.vision/](https://docs.recognito.vision/).
-
 <p align="center">
     <img alt="" src="https://recognito.vision/wp-content/uploads/2024/03/NIST.png" width=100%/>
 </p>
@@ -19,7 +17,10 @@ Providing on-premise SDK solutions for **Face Recognition**, **Liveness Detectio
     </a>  
 </p>
 
-### <img src="https://github.com/recognito-vision/NIST-FRVT-Top-1-Face-Recognition/assets/153883841/cdce594f-f3e3-4015-8b8e-72aa3b6c5ea9" alt="home" width="25">   Visit [Recognito](https://recognito.vision)
+### <img src="https://github.com/recognito-vision/.github/assets/153883841/dc7c1c3f-8269-475c-a689-cb57be36a920" alt="home" width="25">   RECOGNITO Product Documentation
+&emsp;&emsp;<a href="https://docs.recognito.vision" style="display: flex; align-items: center;"><img src="https://recognito.vision/wp-content/uploads/2024/05/book.png" style="width: 64px; margin-right: 5px;"/></a>
+
+### <img src="https://github.com/recognito-vision/NIST-FRVT-Top-1-Face-Recognition/assets/153883841/cdce594f-f3e3-4015-8b8e-72aa3b6c5ea9" alt="home" width="25">   Visit [RECOGNITO](https://recognito.vision)
 <div style="display: flex; align-items: center;">
     &emsp;&emsp;<a href="https://recognito.vision" style="display: flex; align-items: center;"><img src="https://recognito.vision/wp-content/uploads/2024/03/recognito_64_cl.png" style="width: 32px; margin-right: 5px;"/></a>
     &nbsp;&nbsp;&nbsp;&nbsp;<a href="https://www.linkedin.com/company/recognito-vision" style="display: flex; align-items: center;"><img src="https://recognito.vision/wp-content/uploads/2024/03/linkedin_64_cl.png" style="width: 32px; margin-right: 5px;"/></a>
