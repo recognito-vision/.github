@@ -7,6 +7,8 @@ Providing on-premise SDK solutions for **Face Recognition**, **Liveness Detectio
 
 - Our [**Product List**](https://github.com/recognito-vision/Product-List/) for ID verification.
 
+<a href="https://trendshift.io/repositories/9612" target="_blank"><img src="https://trendshift.io/api/badge/repositories/9612" alt="Recognito-Vision%2FLinux-FaceRecognition-FaceLivenessDetection | Trendshift" style="width: 250px; height: 55px;" width="250" height="55"/></a>
+
 <p align="center">
     <img alt="" src="https://recognito.vision/wp-content/uploads/2024/03/NIST.png" width=100%/>
 </p>
