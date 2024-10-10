@@ -33,7 +33,7 @@ Providing on-premise SDK solutions for **Face Recognition**, **Liveness Detectio
 </div>
 
 ### <img src="https://github.com/recognito-vision/Linux-FaceRecognition-FaceLivenessDetection/assets/153883841/78c5efee-15f3-4406-ab4d-13fd1182d20c" alt="contact" width="25">   Contact Us
-Contact us for our on-premise Face Recognition, Liveness Detection SDKs deployment
+Contact us for our on-premise Face SDK and ID Document SDK deployment
 
 <div style="display: flex; align-items: center;">
     <a target="_blank" href="mailto:hassan@recognito.vision"><img src="https://img.shields.io/badge/email-hassan@recognito.vision-blue.svg?logo=gmail " alt="www.recognito.vision"></a>
