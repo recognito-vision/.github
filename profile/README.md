@@ -5,7 +5,13 @@ Providing **Face Recognition**, **Face Liveness Detection** and **ID Document Re
 Providing on-premise SDK solutions for **Face Recognition**, **Liveness Detection**, and **ID Document Recognition**, **Liveness Detection** optimized for server and mobile environments.
 -->
 
-- Our [**Product List**](https://github.com/recognito-vision/Product-List/) for ID verification.
+Our [**Product List**](https://github.com/recognito-vision/Product-List/) for ID verification.
+
+
+#### <img src="https://github.com/user-attachments/assets/030eb30e-ae7b-41b7-bbee-2dfe3ad67567" alt="home" width="25">   _Great News: Try Recognito’s API on your app or website for Free_
+- Subscribe on the plan you wish in our [**API Hub**](https://rapidapi.com/organization/recognito).
+- Clone our [**Hugging Face space**](https://huggingface.co/recognito) for your IDV project setup.
+
 
 <a href="https://trendshift.io/repositories/9612" target="_blank"><img src="https://trendshift.io/api/badge/repositories/9612" alt="Recognito-Vision%2FLinux-FaceRecognition-FaceLivenessDetection | Trendshift" style="width: 250px; height: 55px;" width="250" height="55"/></a>
 
