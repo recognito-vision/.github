@@ -12,7 +12,7 @@ Our [**Product List**](https://github.com/recognito-vision/Product-List/) for ID
 - Global Coverage [**ID Document Recognition Server Demo**](https://github.com/recognito-vision/Linux-ID-Document-Recognition), [**ID Card/Passport OCR Mobile Demo**](https://github.com/recognito-vision/Android-ID-Document-Recognition/tree/main).
 - Try **1:N Face Search** through our [**Face Identification Web Demo**](https://github.com/recognito-vision/Linux-FaceRecognition-FaceLivenessDetection/tree/main/Identification(1%3AN)-Demo).
 - Subscribe our **Free APIs** for your app or website from our [**API Hub**](https://rapidapi.com/organization/recognito).
-- Clone our [**Hugging Face space**](https://huggingface.co/recognito) for your IDV project setup.
+<!--- Clone our [**Hugging Face space**](https://huggingface.co/recognito) for your IDV project setup.-->
 <br/>
 
 <a href="https://trendshift.io/repositories/9612" target="_blank"><img src="https://trendshift.io/api/badge/repositories/9612" alt="Recognito-Vision%2FLinux-FaceRecognition-FaceLivenessDetection | Trendshift" style="width: 250px; height: 55px;" width="250" height="55"/></a>
